@@ -1,0 +1,197 @@
+Waiting for 256 root CIDs to be advertised…
+  root=0/256  other=0/256  emptydir=no  unknown=0  (0s elapsed)
+  root=0/256  other=0/256  emptydir=no  unknown=0  (10s elapsed)
+  root=0/256  other=0/256  emptydir=no  unknown=0  (20s elapsed)
+  root=0/256  other=0/256  emptydir=no  unknown=0  (30s elapsed)
+  root=0/256  other=0/256  emptydir=no  unknown=0  (40s elapsed)
+  [provide #1] prefix=10000101 keys=5 root=1(new=1) other=4  | root progress: 1/256
+  [provide #2] prefix=10000111 keys=3 root=1(new=1) other=2  | root progress: 2/256
+  [provide #3] prefix=10000110 keys=2 root=1(new=1) other=1  | root progress: 3/256
+  [provide #4] prefix=10000100 keys=3 root=1(new=1) other=2  | root progress: 4/256
+  [provide #5] prefix=1001101 keys=4 root=2(new=2) other=2  | root progress: 6/256
+  root=6/256  other=11/256  emptydir=no  unknown=0  (50s elapsed)
+  [provide #6] prefix=10000011 keys=1 root=1(new=1)  | root progress: 7/256
+  [provide #7] prefix=10000010 keys=3 root=1(new=1) other=2  | root progress: 8/256
+  [provide #8] prefix=1000000 keys=5 root=2(new=2) other=3  | root progress: 10/256
+  [provide #9] prefix=1010101 keys=4 root=2(new=2) other=2  | root progress: 12/256
+  root=12/256  other=18/256  emptydir=no  unknown=0  (60s elapsed)
+  [provide #10] prefix=10001011 keys=2 root=1(new=1) other=1  | root progress: 13/256
+  [provide #11] prefix=10001010 keys=1 root=1(new=1)  | root progress: 14/256
+  [provide #12] prefix=1001110 keys=6 root=2(new=2) other=4  | root progress: 16/256
+  [provide #13] prefix=1010100 keys=5 root=2(new=2) other=3  | root progress: 18/256
+  root=18/256  other=26/256  emptydir=no  unknown=0  (70s elapsed)
+  [provide #14] prefix=1010001 keys=5 root=2(new=2) other=3  | root progress: 20/256
+  [provide #15] prefix=1010111 keys=8 root=2(new=2) other=6  | root progress: 22/256
+  [provide #16] prefix=10001001 keys=2 root=1(new=1) other=1  | root progress: 23/256
+  [provide #17] prefix=1001010 keys=4 root=2(new=2) other=2  | root progress: 25/256
+  root=25/256  other=38/256  emptydir=no  unknown=0  (80s elapsed)
+  [provide #18] prefix=1001111 keys=4 root=2(new=2) other=2  | root progress: 27/256
+  [provide #19] prefix=1001001 keys=6 root=2(new=2) other=4  | root progress: 29/256
+  [provide #20] prefix=10001000 keys=2 root=1(new=1) other=1  | root progress: 30/256
+  root=30/256  other=45/256  emptydir=no  unknown=0  (90s elapsed)
+  [provide #21] prefix=10001111 keys=2 root=1(new=1) other=1  | root progress: 31/256
+  [provide #22] prefix=1010110 keys=4 root=2(new=2) other=2  | root progress: 33/256
+  [provide #23] prefix=1000110 keys=4 root=2(new=2) other=2  | root progress: 35/256
+  [provide #24] prefix=1011011 keys=3 root=2(new=2) other=1  | root progress: 37/256
+  [provide #25] prefix=1000110 keys=4 root=2(new=0) other=2  | root progress: 37/256
+  [provide #26] prefix=10001110 keys=2 root=1(new=1) other=1  | root progress: 38/256
+  [provide #27] prefix=1010010 keys=5 root=2(new=2) other=3  | root progress: 40/256
+  root=40/256  other=55/256  emptydir=no  unknown=0  (100s elapsed)
+  [provide #28] prefix=1100100 keys=6 root=2(new=2) other=4  | root progress: 42/256
+  [provide #29] prefix=1011100 keys=4 root=2(new=2) other=2  | root progress: 44/256
+  [provide #30] prefix=1011010 keys=3 root=2(new=2) other=1  | root progress: 46/256
+  root=46/256  other=62/256  emptydir=no  unknown=0  (110s elapsed)
+  [provide #31] prefix=1100111 keys=5 root=2(new=2) other=3  | root progress: 48/256
+  [provide #32] prefix=1010011 keys=5 root=2(new=2) other=3  | root progress: 50/256
+  root=50/256  other=68/256  emptydir=no  unknown=0  (120s elapsed)
+  [provide #33] prefix=1100011 keys=3 root=2(new=2) other=1  | root progress: 52/256
+  [provide #34] prefix=1011101 keys=4 root=2(new=2) other=2  | root progress: 54/256
+  [provide #35] prefix=1011111 keys=4 root=2(new=2) other=2  | root progress: 56/256
+  root=56/256  other=73/256  emptydir=no  unknown=0  (130s elapsed)
+  [provide #36] prefix=1101101 keys=4 root=2(new=2) other=2  | root progress: 58/256
+  [provide #37] prefix=1100110 keys=5 root=2(new=2) other=3  | root progress: 60/256
+  [provide #38] prefix=10001111 keys=2 root=1(new=0) other=1  | root progress: 60/256
+  [provide #39] prefix=1011000 keys=5 root=2(new=2) other=3  | root progress: 62/256
+  [provide #40] prefix=10001110 keys=2 root=1(new=0) other=1  | root progress: 62/256
+  [provide #41] prefix=1000000 keys=5 root=2(new=0) other=3  | root progress: 62/256
+  root=62/256  other=81/256  emptydir=no  unknown=0  (140s elapsed)
+  [provide #42] prefix=1100001 keys=3 root=2(new=2) other=1  | root progress: 64/256
+  [provide #43] prefix=1100010 keys=5 root=2(new=2) other=3  | root progress: 66/256
+  [provide #44] prefix=1011110 keys=6 root=2(new=2) other=4  | root progress: 68/256
+  root=68/256  other=89/256  emptydir=no  unknown=0  (150s elapsed)
+  [provide #45] prefix=1101100 keys=7 root=2(new=2) other=5  | root progress: 70/256
+  [provide #46] prefix=1101000 keys=5 root=2(new=2) other=3  | root progress: 72/256
+  [provide #47] prefix=1110100 keys=3 root=2(new=2) other=1  | root progress: 74/256
+  [provide #48] prefix=1010000 keys=4 root=2(new=2) other=2  | root progress: 76/256
+  root=76/256  other=100/256  emptydir=no  unknown=0  (160s elapsed)
+  [provide #49] prefix=1110011 keys=4 root=2(new=2) other=2  | root progress: 78/256
+  root=78/256  other=102/256  emptydir=no  unknown=0  (170s elapsed)
+  [provide #50] prefix=1101001 keys=8 root=2(new=2) other=6  | root progress: 80/256
+  [provide #51] prefix=10000010 keys=3 root=1(new=0) other=2  | root progress: 80/256
+  [provide #52] prefix=1111101 keys=3 root=2(new=2) other=1  | root progress: 82/256
+  root=82/256  other=109/256  emptydir=no  unknown=0  (180s elapsed)
+  [provide #53] prefix=1110111 keys=5 root=2(new=2) other=3  | root progress: 84/256
+  [provide #54] prefix=1100000 keys=5 root=2(new=2) other=3  | root progress: 86/256
+  root=86/256  other=115/256  emptydir=no  unknown=0  (190s elapsed)
+  [provide #55] prefix=10000100 keys=3 root=1(new=0) other=2  | root progress: 86/256
+  [provide #56] prefix=1101111 keys=4 root=2(new=2) other=2  | root progress: 88/256
+  [provide #57] prefix=10000101 keys=5 root=1(new=0) other=4  | root progress: 88/256
+  [provide #58] prefix=1111000 keys=3 root=2(new=2) other=1  | root progress: 90/256
+  [provide #59] prefix=1110010 keys=5 root=2(new=2) other=3  | root progress: 92/256
+  [provide #60] prefix=1111110 keys=3 root=2(new=2) other=1  | root progress: 94/256
+  root=94/256  other=122/256  emptydir=no  unknown=0  (200s elapsed)
+  [provide #61] prefix=0000100 keys=8 root=2(new=2) other=6  | root progress: 96/256
+  [provide #62] prefix=0000000 keys=5 root=2(new=2) other=3  | root progress: 98/256
+  [provide #63] prefix=0000110 keys=5 root=2(new=2) other=3  | root progress: 100/256
+  [provide #64] prefix=10000111 keys=3 root=1(new=0) other=2  | root progress: 100/256
+  root=100/256  other=134/256  emptydir=no  unknown=0  (210s elapsed)
+  [provide #65] prefix=1101110 keys=4 root=2(new=2) other=2  | root progress: 102/256
+  [provide #66] prefix=0001101 keys=3 root=2(new=2) other=1  | root progress: 104/256
+  [provide #67] prefix=1111001 keys=7 root=2(new=2) other=5  | root progress: 106/256
+  [provide #68] prefix=0000101 keys=4 root=2(new=2) other=2  | root progress: 108/256
+  root=108/256  other=144/256  emptydir=no  unknown=0  (220s elapsed)
+  [provide #69] prefix=1111111 keys=4 root=2(new=2) other=2  | root progress: 110/256
+  [provide #70] prefix=0001110 keys=3 root=2(new=2) other=1  | root progress: 112/256
+  [provide #71] prefix=1111100 keys=3 root=2(new=2) other=1  | root progress: 114/256
+  root=114/256  other=148/256  emptydir=no  unknown=0  (230s elapsed)
+  [provide #72] prefix=0000111 keys=4 root=2(new=2) other=2  | root progress: 116/256
+  root=116/256  other=150/256  emptydir=no  unknown=0  (240s elapsed)
+  [provide #73] prefix=0010100 keys=3 root=2(new=2) other=1  | root progress: 118/256
+  root=118/256  other=151/256  emptydir=no  unknown=0  (250s elapsed)
+  [provide #74] prefix=0000001 keys=4 root=2(new=2) other=2  | root progress: 120/256
+  [provide #75] prefix=0000011 keys=4 root=2(new=2) other=2  | root progress: 122/256
+  [provide #76] prefix=1111010 keys=3 root=2(new=2) other=1  | root progress: 124/256
+  [provide #77] prefix=11010111 keys=3 root=1(new=1) other=2  | root progress: 125/256
+  root=125/256  other=158/256  emptydir=no  unknown=0  (260s elapsed)
+  [provide #78] prefix=0001010 keys=5 root=2(new=2) other=3  | root progress: 127/256
+  [provide #79] prefix=0010101 keys=3 root=2(new=2) other=1  | root progress: 129/256
+  [provide #80] prefix=0011110 keys=3 root=2(new=2) other=1  | root progress: 131/256
+  root=131/256  other=163/256  emptydir=no  unknown=0  (270s elapsed)
+  [provide #81] prefix=0001100 keys=5 root=2(new=2) other=2 emptydir=1  | root progress: 133/256
+  [provide #82] prefix=0011100 keys=4 root=2(new=2) other=2  | root progress: 135/256
+  [provide #83] prefix=0010001 keys=6 root=2(new=2) other=4  | root progress: 137/256
+  [provide #84] prefix=0010110 keys=5 root=2(new=2) other=3  | root progress: 139/256
+  [provide #85] prefix=00101111 keys=1 root=1(new=1)  | root progress: 140/256
+  [provide #86] prefix=0001011 keys=5 root=2(new=2) other=3  | root progress: 142/256
+  [provide #87] prefix=0001111 keys=5 root=2(new=2) other=3  | root progress: 144/256
+  [provide #88] prefix=0011111 keys=4 root=2(new=2) other=2  | root progress: 146/256
+  [provide #89] prefix=00101110 keys=2 root=1(new=1) other=1  | root progress: 147/256
+  root=147/256  other=183/256  emptydir=yes  unknown=0  (280s elapsed)
+  [provide #90] prefix=1001101 keys=4 root=2(new=0) other=2  | root progress: 147/256
+  [provide #91] prefix=0010010 keys=3 root=2(new=2) other=1  | root progress: 149/256
+  [provide #92] prefix=0100111 keys=3 root=2(new=2) other=1  | root progress: 151/256
+  [provide #93] prefix=11010110 keys=3 root=1(new=1) other=2  | root progress: 152/256
+  [provide #94] prefix=00110011 keys=3 root=1(new=1) other=2  | root progress: 153/256
+  [provide #95] prefix=00110010 keys=2 root=1(new=1) other=1  | root progress: 154/256
+  root=154/256  other=190/256  emptydir=yes  unknown=0  (290s elapsed)
+  [provide #96] prefix=0011010 keys=3 root=2(new=2) other=1  | root progress: 156/256
+  [provide #97] prefix=0101101 keys=4 root=2(new=2) other=2  | root progress: 158/256
+  [provide #98] prefix=0100011 keys=5 root=2(new=2) other=3  | root progress: 160/256
+  [provide #99] prefix=1001110 keys=6 root=2(new=0) other=4  | root progress: 160/256
+  root=160/256  other=196/256  emptydir=yes  unknown=0  (300s elapsed)
+  [provide #100] prefix=0101000 keys=3 root=2(new=2) other=1  | root progress: 162/256
+  [provide #101] prefix=0100001 keys=4 root=2(new=2) other=2  | root progress: 164/256
+  [provide #102] prefix=0100110 keys=6 root=2(new=2) other=4  | root progress: 166/256
+  [provide #103] prefix=00010011 keys=3 root=1(new=1) other=2  | root progress: 167/256
+  root=167/256  other=205/256  emptydir=yes  unknown=0  (310s elapsed)
+  [provide #104] prefix=00010010 keys=2 root=1(new=1) other=1  | root progress: 168/256
+  [provide #105] prefix=0010011 keys=5 root=2(new=2) other=3  | root progress: 170/256
+  root=170/256  other=209/256  emptydir=yes  unknown=0  (320s elapsed)
+  [provide #106] prefix=01010111 keys=3 root=1(new=1) other=2  | root progress: 171/256
+  [provide #107] prefix=1001111 keys=4 root=2(new=0) other=2  | root progress: 171/256
+  [provide #108] prefix=01010110 keys=2 root=1(new=1) other=1  | root progress: 172/256
+  root=172/256  other=212/256  emptydir=yes  unknown=0  (330s elapsed)
+  [provide #109] prefix=0110111 keys=4 root=2(new=2) other=2  | root progress: 174/256
+  [provide #110] prefix=01101101 keys=2 root=1(new=1) other=1  | root progress: 175/256
+  [provide #111] prefix=0111100 keys=4 root=2(new=2) other=2  | root progress: 177/256
+  [provide #112] prefix=0011011 keys=4 root=2(new=2) other=2  | root progress: 179/256
+  root=179/256  other=219/256  emptydir=yes  unknown=0  (340s elapsed)
+  [provide #113] prefix=0110000 keys=3 root=2(new=2) other=1  | root progress: 181/256
+  [provide #114] prefix=0111101 keys=5 root=2(new=2) other=3  | root progress: 183/256
+  [provide #115] prefix=0101111 keys=3 root=2(new=2) other=1  | root progress: 185/256
+  [provide #116] prefix=0110010 keys=5 root=2(new=2) other=3  | root progress: 187/256
+  [provide #117] prefix=01101001 keys=2 root=1(new=1) other=1  | root progress: 188/256
+  root=188/256  other=228/256  emptydir=yes  unknown=0  (350s elapsed)
+  [provide #118] prefix=01010101 keys=3 root=1(new=1) other=2  | root progress: 189/256
+  [provide #119] prefix=0100101 keys=6 root=2(new=2) other=4  | root progress: 191/256
+  [provide #120] prefix=0100010 keys=4 root=2(new=2) other=2  | root progress: 193/256
+  [provide #121] prefix=01101100 keys=2 root=1(new=1) other=1  | root progress: 194/256
+  [provide #122] prefix=01010100 keys=1 root=1(new=1)  | root progress: 195/256
+  [provide #123] prefix=0110011 keys=5 root=2(new=2) other=3  | root progress: 197/256
+  [provide #124] prefix=0111000 keys=4 root=2(new=2) other=2  | root progress: 199/256
+  root=199/256  other=242/256  emptydir=yes  unknown=0  (360s elapsed)
+  [provide #125] prefix=01101000 keys=3 root=1(new=1) other=2  | root progress: 200/256
+  root=200/256  other=244/256  emptydir=yes  unknown=0  (370s elapsed)
+  [provide #126] prefix=0111011 keys=5 root=2(new=2) other=3  | root progress: 202/256
+  [provide #127] prefix=01100011 keys=3 root=1(new=1) other=2  | root progress: 203/256
+  root=203/256  other=249/256  emptydir=yes  unknown=0  (380s elapsed)
+  [provide #128] prefix=01111111 keys=1 root=1(new=1)  | root progress: 204/256
+  [provide #129] prefix=01111110 keys=3 root=1(new=1) other=2  | root progress: 205/256
+  root=205/256  other=251/256  emptydir=yes  unknown=0  (390s elapsed)
+  [provide #130] prefix=0111001 keys=4 root=2(new=2) other=2  | root progress: 207/256
+  [provide #131] prefix=01100010 keys=2 root=1(new=1) other=1  | root progress: 208/256
+  root=208/256  other=254/256  emptydir=yes  unknown=0  (400s elapsed)
+  [provide #132] prefix=1001010 keys=4 root=2(new=0) other=2  | root progress: 208/256
+  [provide #133] prefix=0111010 keys=4 root=2(new=2) other=2  | root progress: 210/256
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (410s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (420s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (430s elapsed)
+  [provide #134] prefix=1001001 keys=6 root=2(new=0) other=4  | root progress: 210/256
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (440s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (450s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (460s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (470s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (480s elapsed)
+  [provide #135] prefix=1010101 keys=4 root=2(new=0) other=2  | root progress: 210/256
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (490s elapsed)
+  [provide #136] prefix=1010100 keys=5 root=2(new=0) other=3  | root progress: 210/256
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (500s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (510s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (520s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (530s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (540s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (550s elapsed)
+  [provide #137] prefix=1010110 keys=4 root=2(new=0) other=2  | root progress: 210/256
+  [provide #138] prefix=1010111 keys=8 root=2(new=0) other=6  | root progress: 210/256
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (560s elapsed)
+  root=210/256  other=256/256  emptydir=yes  unknown=0  (570s elapsed)
